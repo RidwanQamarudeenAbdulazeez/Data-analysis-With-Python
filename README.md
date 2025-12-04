@@ -33,3 +33,5 @@ Histograms
 Correlation heatmaps
 Step 4: Interpretation
 Interpreted each visualization to extract meaningful insights about survival patterns.
+
+## Dashboard
