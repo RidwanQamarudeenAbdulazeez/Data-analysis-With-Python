@@ -3,7 +3,7 @@ This project analyzes the Titanic dataset to uncover key survival drivers. Using
 ## Dataset Used
 <a href="https://github.com/RidwanQamarudeenAbdulazeez/Data-analysis-With-Python/blob/main/titanic.csv"> Dataset<a/>
 
-##Questions (KPIs)
+## Questions (KPIs)
 -These key performance indicators (KPIs) guide the analysis:
 -What is the overall survival rate?
 -How does gender affect survival probability?
