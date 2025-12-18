@@ -35,3 +35,13 @@ Step 4: Interpretation
 Interpreted each visualization to extract meaningful insights about survival patterns.
 
 ## Dashboard
+
+<img width="1467" height="1005" alt="download" src="https://github.com/user-attachments/assets/ada68536-2be0-460b-99c0-44d9a3d96de7" />
+
+<img width="879" height="544" alt="Screenshot 2025-12-03 092101" src="https://github.com/user-attachments/assets/ab3724f8-191d-4225-866e-9e9053130b17" />
+
+<img width="725" height="564" alt="Screenshot 2025-12-04 115644" src="https://github.com/user-attachments/assets/9e18a2d9-03ba-422a-bce8-59d1468999e9" />
+
+
+
+
